@@ -1,1 +1,1 @@
-This is  Payment-Gateway-Integration through html,css , javascript and Capturing through open source  API
+This is a Payment-Gateway-Integration method developed through html,css , javascript and api key generated from open source  API
